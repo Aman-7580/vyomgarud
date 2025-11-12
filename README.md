@@ -43,8 +43,6 @@ Font: Poppins
 Interactions: Smooth hover and reveal animations
 
 ## 🌐 Live Demo
-[https://vyomgarud.vercel.app](https://vyomgarud.vercel.app)
-
 
 🔗 🔗 [View Deployed Site on Vercel](https://vyomgarud-gamma.vercel.app)
 
